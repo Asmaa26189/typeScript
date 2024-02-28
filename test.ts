@@ -4,6 +4,7 @@ console.log(typeof window);
 if (typeof window !== 'undefined') {
     alert('You are on the browser');
     console.log('can use alert()');
+    console.log('fix');
     //can use alert()
   } else {
     console.log('You are on the server');
