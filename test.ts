@@ -10,4 +10,5 @@ if (typeof window !== 'undefined') {
     console.log('can\'t use alert()');
     //can't use alert()
   }
+  console.log('test branches');
   
