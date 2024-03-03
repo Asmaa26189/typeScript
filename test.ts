@@ -12,3 +12,4 @@ if (typeof window !== 'undefined') {
     //can't use alert()
   }
   console.log('Master');
+  console.log('test branches');
